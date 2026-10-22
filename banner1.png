@@ -1,3 +1,18 @@
+☁️ Cloud Platform & OiS
+AWS Linux
+
+Scripting
+Shell Script Python
+
+🛠️ DevOps & CI/CD
+Jenkins GitHub Actions
+
+🐳 Containers & Orchestration
+Docker Kubernetes Helm
+
+🔧 Infrastructure & Monitoring
+Terraform Ansible Prometheus Grafana
+Tech Stack
 ☁️ Cloud Platform & OS
 AWS Linux
 
@@ -12,3 +27,25 @@ Docker Kubernetes Helm
 
 🔧 Infrastructure & Monitoring
 Terraform Ansible Prometheus Grafana
+
+🔧 What I Do
+🛠️ Build and manage scalable infrastructure on AWS using Terraform for secure, repeatable, and automated provisioning.
+⚙️ Implement Configuration Management with Ansible, ensuring consistent server provisioning and automated deployments.
+🚀 Design and implement efficient CI/CD pipelines with Jenkins, accelerating software delivery.
+🗃️ Manage source code and team collaboration using GitHub, enabling streamlined workflows and version control.
+🐳 Deploy and orchestrate applications with Docker and Kubernetes (EKS) for high availability and scalability.
+🤖 Automate infrastructure and operational tasks using Linux, Shell scripting, and Python,improving consistency and speed.
+🧪 Enforce quality with SonarQube, and manage artifacts with Nexus.
+🔐 Secure cloud environments using IAM, RBAC ensuring compliance and access control.
+📈 Ensure observability and performance with Prometheus, Grafana, and CloudWatch, minimizing downtime.
+💼 Career Snapshot
+🏢 L & T techonolgy services – DevOps & AWS Cloud Engineer (4+ Years)
+
+Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
+
+⚙️ Skills Showcase
+Amazon Web Services Terraform Ansible Jenkins Docker Kubernetes Linux Bash Maven Git VS Code
+
+📊 GitHub Stats
+  
+
